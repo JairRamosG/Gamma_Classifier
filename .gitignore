@@ -1,6 +1,9 @@
 # --- Papers / documentación local ---
 papers/
 
+# --- Tooling local (skill registry de Gentle AI) ---
+.atl/
+
 # --- Python ---
 __pycache__/
 *.py[cod]
